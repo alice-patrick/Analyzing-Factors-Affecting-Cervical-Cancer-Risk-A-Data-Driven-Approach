@@ -65,7 +65,16 @@ Cervical cancer is a leading health concern globally, but it is also one of the 
 
 ---
 
-## Results and Insights  
+## Insights
+-Demographics: Age and smoking habits are critical factors influencing cancer risk.
+-STD Impact: Certain STDs, particularly with early and recurrent diagnosis, significantly increase risk.
+-Contraceptive Use: Limited correlations observed between contraceptive use and cancer outcomes.
+-High-Risk Profiles: Smoking severity and multiple STD diagnoses highlight individuals at higher risk.
+-Correlations: Age, smoking, and sexual health variables are strongly linked to positive biopsy results.
+
+---
+
+## Results    
 - Key predictors of cervical cancer include smoking history, contraceptive use, and STDs, especially HPV.  
 - Strong correlations between lifestyle and medical history factors were identified.  
 - The logistic regression model demonstrated high predictive performance, highlighting its potential for healthcare applications.  
