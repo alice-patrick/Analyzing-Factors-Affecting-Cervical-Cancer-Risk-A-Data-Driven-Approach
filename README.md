@@ -12,8 +12,6 @@ This project explores the relationship between various factors, such as sexual h
 5. [Analysis Workflow](#analysis-workflow)  
 6. [Results and Insights](#results-and-insights)  
 7. [How to Run the Project](#how-to-run-the-project)  
-8. [Future Scope](#future-scope)  
-9. [Contributions](#contributions)  
 
 ---
 ## Introduction  
