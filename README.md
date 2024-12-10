@@ -84,3 +84,17 @@ Cervical cancer is a leading health concern globally, but it is also one of the 
    ```bash
    git clone https://github.com/yourusername/Analyzing-Factors-Affecting-Cervical-Cancer-Risk.git
 
+   ![image](https://github.com/user-attachments/assets/0a8b5cdc-cf98-4234-b587-6f28745c62c8)
+
+   ![image](https://github.com/user-attachments/assets/98522382-d82c-443f-82b2-fae9b75b408c)
+
+   ![image](https://github.com/user-attachments/assets/545b320c-06ce-48f8-857a-eac806fc7a3c)
+
+   ![image](https://github.com/user-attachments/assets/22f40e39-3ef2-4684-bcef-276b6a2e4ffa)
+
+   ![image](https://github.com/user-attachments/assets/676053f3-7118-4395-8166-bf9701f1ac31)
+
+
+
+
+
